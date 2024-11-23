@@ -7,6 +7,7 @@
 <p align="left">Meu nome é Otávio, tenho 18 anos e estudo Ciência da Computação na PUC Goiás. Sou um aspirante a front-end e designer, com interesse em criar interfaces que sejam tanto práticas quanto visualmente marcantes. Adoro explorar ideias que conectam tecnologia e estética.</p>
 
 ###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=otavio-30&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0a0b0a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=otavio-30&redirect=true)
 
 <h3 align="left">Stats</h3>
 
