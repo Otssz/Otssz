@@ -9,6 +9,8 @@
 ###
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=otavio-30&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0a0b0a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=otavio-30&redirect=true)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=otavio-30)
+
 <h3 align="left">Stats</h3>
 
 ###
