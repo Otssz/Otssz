@@ -1,10 +1,10 @@
 ## Olá! Prazer, Otávio Pereira ⋆｡°✩
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<p align="left">Meu nome é Otávio, tenho 18 anos e estudo Ciência da Computação na PUC Goiás. Sou um aspirante a front-end e designer, com interesse em criar interfaces que sejam tanto práticas quanto visualmente marcantes. Adoro explorar ideias que conectam tecnologia e estética.</p>
+<p align="center">Meu nome é Otávio, tenho 18 anos e estudo Ciência da Computação na PUC Goiás. Sou um aspirante a front-end e designer, com interesse em criar interfaces que sejam tanto práticas quanto visualmente marcantes. Adoro explorar ideias que conectam tecnologia e estética.</p>
 
 ###
 
