@@ -8,10 +8,10 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>` 愛 `</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi! I'm <b>Otávio Pereira</b>
   </samp>
 </div>
 
