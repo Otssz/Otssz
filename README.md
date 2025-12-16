@@ -4,7 +4,7 @@
 
 ###
 
-https://readme-typing-svg.demolab.com/demo/?size=18&color=9A9A9A&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9A9A9A&width=435&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+)](https://git.io/typing-svg)
 
 ###
 
