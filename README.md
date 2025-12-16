@@ -4,7 +4,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&pause=1000&color=9A9A9A&background=FF04F900&width=435&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9A9A9A&background=FF04F900&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+" alt="Typing SVG" /></a>
 
 ###
 
