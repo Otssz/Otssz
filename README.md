@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="center">Oi! Prazer, Otávio Pereira.</h6>
+https://readme-typing-svg.demolab.com/demo/?size=18&color=9A9A9A&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+
 
 ###
 
