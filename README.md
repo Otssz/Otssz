@@ -1,4 +1,3 @@
-<img width="500" height="500" alt="image"/><div align="center">
   <img height="143" src="https://i.pinimg.com/originals/3c/42/3b/3c423b5bbe83c3d7ab43662c51534e8c.gif"  />
 </div>
 
