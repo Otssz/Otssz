@@ -1,30 +1,19 @@
 <div align="center">
-  <img height="143" src="https://i.pinimg.com/originals/3c/42/3b/3c423b5bbe83c3d7ab43662c51534e8c.gif"  />
+  <img height="80" src="https://i.pinimg.com/originals/52/30/00/5230004a286b6fd261c839649ecbae8a.gif"  />
 </div>
 
 ###
+# 🪽 Otávio P.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9A9A9A&background=FF04F900&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Prazer%2C+Ot%C3%A1vio+Pereira+%3A)+" alt="Typing SVG" /></a>
+  **`Computer Science Student`**
 
-###
+  ### Languages and Tools
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,html,css,c" />
+  </a>
+</p>
 
-<h4 align="center">Estudante de Ciência da Computação  | Desenvolvedor Front-End | Goiâna, Goiás.</h4>
 
-###
 
-<h3 align="left">Linguagens ↴</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
 
