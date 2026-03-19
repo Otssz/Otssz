@@ -1,9 +1,6 @@
-<div align="center">
-  <img height="80" src="https://i.pinimg.com/originals/98/93/dc/9893dc57cd2e5960840bf9b9f1ae21fb.gif"  />
-</div>
 
 ###
-# 🪽 Otávio P.
+# Otávio P.
 
   **`Computer Science Student`**
 
@@ -14,4 +11,7 @@
   </a>
 </p>
 
-
+### My Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Otssz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
